@@ -1,3 +1,3 @@
 # ailonet
 
-The contents of this repository will be hidden from the public until release.
+*CONTENTS OF THIS REPOSITORY WILL BE HIDDEN FROM THE PUBLIC UNTIL RELEASE*
